@@ -3,14 +3,86 @@
     {
       "id": 1,
       "name": "North KandyKorner",
-      "address": "123 SugaerRush Ct",
+      "address": "123 SugarRush Ct",
       "squareFootage": "50",
+      "handicapAccessible": "yes"
+    },
+    {
+      "id": 2,
+      "name": "East KandyKorner",
+      "address": "9876 SugarMound Lane",
+      "squareFootage": "79",
+      "handicapAccessible": "yes"
+    },
+    {
+      "id": 3,
+      "name": "South KandyKorner",
+      "address": "5454 Rush Drive",
+      "squareFootage": "89",
+      "handicapAccessible": "no"
+    },
+    {
+      "id": 4,
+      "name": "West KandyKorner",
+      "address": "909 Boom St",
+      "squareFootage": "99",
       "handicapAccessible": "yes"
     }
   ],
   "products": [
     {
-
+      "id": 1,
+      "productName": "Brick",
+      "price": "1.00",
+      "productTypeId": 1
+    },
+    {
+      "id": 2,
+      "productName": "Juicy",
+      "price": ".99",
+      "productTypeId": 4
+    },
+    {
+      "id":3,
+      "productName": "Buttery",
+      "price": "1.25",
+      "productTypeId": 1
+    },
+    {
+      "id": 4,
+      "productName": "Stripes",
+      "price": ".98",
+      "productTypeId": 2
+    },
+    {
+      "id": 5,
+      "productName": "Rich",
+      "price": "2.00",
+      "productTypeId": 3
+    },
+    {
+      "id": 6,
+      "productName": "Bubbles",
+      "price": "1.09",
+      "productTypeId": 4
+    },
+    {
+      "id": 7,
+      "productName": "Milks",
+      "price": "1.49",
+      "productTypeId": 3
+    },
+    {
+      "id": 8,
+      "productName": "Chompers",
+      "price": "1.98",
+      "productTypeId": 2
+    },
+    {
+      "id": 9,
+      "productName": "Peppy",
+      "price": ".45",
+      "productTypeId": 1
     }
   ],
   "employees": [
@@ -20,7 +92,20 @@
   ],
   "productTypes": [
     {
-
+      "id": 1,
+      "type": "Hard Candy"
+    },
+    {
+      "id": 2,
+      "type": "Gum"
+    },
+    {
+      "id": 3,
+      "type": "Chocolate"
+    },
+    {
+      "id": 4,
+      "type": "Sodas"
     }
   ],
   "customers": [
