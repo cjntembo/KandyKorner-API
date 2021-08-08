@@ -1,0 +1,31 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "North KandyKorner",
+      "address": "123 SugaerRush Ct",
+      "squareFootage": "50",
+      "handicapAccessible": "yes"
+    }
+  ],
+  "products": [
+    {
+
+    }
+  ],
+  "employees": [
+    {
+
+    }
+  ],
+  "productTypes": [
+    {
+
+    }
+  ],
+  "customers": [
+    {
+
+    }
+  ]
+}
