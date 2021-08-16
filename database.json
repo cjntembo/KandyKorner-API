@@ -43,7 +43,7 @@
       "productTypeId": 4
     },
     {
-      "id":3,
+      "id": 3,
       "productName": "Buttery",
       "price": "1.25",
       "productTypeId": 1
@@ -87,7 +87,22 @@
   ],
   "employees": [
     {
-
+      "id": 1,
+      "name": "Angel Fish",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Chris Cho",
+      "locationId": 2
+    },
+    {
+      "name": "DEE Jones",
+      "locationId": 2,
+      "manager": "no",
+      "fullTime": "yes",
+      "hourlyRate": "11.50",
+      "id": 3
     }
   ],
   "productTypes": [
@@ -110,7 +125,18 @@
   ],
   "customers": [
     {
-
+      "id": 1,
+      "name": "Kandy Kandy",
+      "address": "456 Hungry Road",
+      "email": "123Sweets@kandy.com",
+      "productId": 1,
+      "locationId": 1
+    },
+    {
+      "email": "456Cookie@cookie.com",
+      "address": "456 Hungry Road",
+      "name": "Cookie Crumbs",
+      "id": 2
     }
   ]
 }
